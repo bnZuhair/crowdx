@@ -1,3 +1,15 @@
-# React + TypeScript + Vite + shadcn/ui
+# CrowdX Dashboard
 
-This is a template for a new Vite project with React, TypeScript, and shadcn/ui.
+A simple dashboard for crowd management, visualizing congestion in gates and paths.
+
+## Quick Start
+
+- `npm install`
+- `npm run dev`
+
+## Features
+
+- Arrival curve
+- Gates: Radial charts
+- Paths: Stacked bar charts</content>
+<parameter name="filePath">/home/bnzohair/Documents/hackthon/crowdx/README.md

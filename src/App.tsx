@@ -1,7 +1,11 @@
-import { ComponentExample } from "@/components/component-example";
+import Dashboard from "./components/Dashboard";
 
 export function App() {
-return <ComponentExample />;
+    return (
+        <div className="dark">
+            <Dashboard />
+        </div>
+    );
 }
 
 export default App;
